@@ -67,4 +67,4 @@ This project primarily uses the following Python libraries:
 
 Special thanks to the **open-source community** for providing the tools and resources that made this project possible. 🚀
 
-Happy coding! 😊SS
+Happy coding! 😊
